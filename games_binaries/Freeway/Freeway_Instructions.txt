@@ -1,0 +1,10 @@
+This is a clone of the game Freeway.
+
+The goal of this game is to get the chicken to the other side of the road.
+
+When one makes it to the other side your score will increase and another chicken will appear again at the bottom of the screen.
+
+In novice mode, when a chicken is hit by a car it will fly backwards to the lane before it.  In expert mode, the chicken will appear all the way at the beginning of the road.
+
+There is a time limit.  When the time ends in two player mode the player with the most points will win.
+

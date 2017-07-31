@@ -1,0 +1,3 @@
+Rocks is a clone of Asteroids.
+Use the mouse to click the start game button.
+Control the ship with the arrow keys, and fire the weapon with the spacebar.

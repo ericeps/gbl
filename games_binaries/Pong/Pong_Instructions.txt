@@ -1,0 +1,3 @@
+This is a two player game of pong.
+First player controls the paddle with the w and s keys.
+Second player controls the paddle with up and down keys.

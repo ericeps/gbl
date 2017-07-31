@@ -1,0 +1,13 @@
+Pool instructions.
+
+At the start of the game, place the cue ball on the table clicking the position you want it at.
+
+The cue stick will automatically rotate around the cue ball relative to the mouse position.  Use this to line up your shot.
+
+Once the cue stick is angled the way you want it, hold down the mouse button and release to strike the ball.  Hold the mouse button down longer to strike the ball harder.
+
+Once all the balls on the table stop moving, the cue stick will go back to the cue ball so you can prepare for the next shot.
+
+If you scratch the white ball you can place it anywhere on the table.
+
+If the 8 ball is sunk in a pocket, the game will start over.
